@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\“WŠJæ\pleiades-2020-12-java-win-64bit-jre_20201222\pleiades\workspace\JavaWcp2\.metadata\.plugins\org.eclipse.jdt.core
+888947367.index
+3327540044.index
