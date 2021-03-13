@@ -1,0 +1,11 @@
+package practice;
+
+public class Q005 {
+	public static void main(String[] args) {
+		int age =15;
+		boolean members = true;
+		int fee = 0;
+
+	}
+
+}

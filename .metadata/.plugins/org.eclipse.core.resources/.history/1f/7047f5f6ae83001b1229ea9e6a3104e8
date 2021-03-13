@@ -1,0 +1,13 @@
+package practice;
+
+public class JavaQ003 {
+	public static void main(String[] args) {
+		int i;
+		for(i=1;i<=9;i++) {
+			if(i%4==0) {
+				System.out.println(i);
+			}
+		}
+	}
+
+}
