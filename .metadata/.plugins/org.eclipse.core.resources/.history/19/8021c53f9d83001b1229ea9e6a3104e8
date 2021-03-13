@@ -1,0 +1,17 @@
+package practice;
+
+import java.io.BufferedReader;
+
+public class Java0301a {
+	public static void main(String[] args) {
+
+
+	BufferedReader br = new BufferedReader(
+						new InputStreamReader( System.in ) );
+	int x = Integer.parseInt(br.readLine());
+	int y = Integer.parseInt( br.readLine() );
+
+	if( x > y )
+	    System.out.println( "xはyより大きい。" );
+}
+}
