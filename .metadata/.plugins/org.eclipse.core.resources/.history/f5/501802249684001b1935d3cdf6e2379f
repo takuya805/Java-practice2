@@ -1,0 +1,14 @@
+package practice1;
+
+public class Exam08 {
+	public static void main(String[] args) {
+		String student_name="田中";
+		int japanese_score = 85;
+		int mathematical_score = 66;
+		double average_score = ((japanese_score+mathematical_score)/2);
+		System.out.println(japanese_score);
+		System.out.println(mathematical_score);
+		System.out.println(average_score);
+	}
+
+}

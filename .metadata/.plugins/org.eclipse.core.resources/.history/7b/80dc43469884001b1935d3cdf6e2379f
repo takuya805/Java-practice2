@@ -1,0 +1,10 @@
+package practice1;
+
+public class Exam0801 {
+	public static void main(String[] args) {
+		int entry_amount = 90;
+	    System.out.println("投入金額は" + entry_amount + "円です");
+
+	}
+
+}

@@ -1,0 +1,23 @@
+package practice1;
+
+public class Exam0801 {
+	public static void main(String[] args) {
+		int entry_amount = 330;
+		int a=500;
+		int b=100;
+		int c=50;
+		int d=10;
+	    System.out.println("投入金額は" + entry_amount + "円です");
+
+	    if(entry_amount>160) {
+	    	System.out.println("ドリンクが購入できました【お釣りあり】");
+	    	System.out.println("お釣りは"+(entry_amount-160)+"円です");
+	    	System.out.println(a+"円硬貨："+(entry_amount/a)+"枚");
+	    }else if(entry_amount==160) {
+	    	System.out.println("ドリンクが購入できました【お釣りなし】");
+	    }else if(entry_amount<160) {
+	    	System.out.println("金額が足りません");
+	    }
+	}
+
+}
